@@ -13,7 +13,7 @@ Task
 */
 
 
-contract day5 {
+contract Remainder {
 
     function find(int a) pure public returns (int result) {
         require(a > 0, "value of input parameter has t be greater than 0");
